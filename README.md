@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to Github Finder 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
-  <a href="doc.com" target="_blank">
+  <a href="https://jayashrsy.github.io/fyle-internship-challenge-23/documentation/overview.html" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
   <a href="https://twitter.com/JayashRSY" target="_blank">
@@ -13,7 +13,7 @@
 
 ### ✨ [Demo](https://githubuserfinder.vercel.app/)
 
-### ✨ [Documentation](https://jayashrsy.github.io/fyle-internship-challenge-23/documentation/overview.html)
+### 📝 [Documentation](https://jayashrsy.github.io/fyle-internship-challenge-23/documentation/overview.html)
 
 ## Install
 
@@ -37,16 +37,16 @@ npm run test
 
 👤 **Jayash**
 
-* Website: [bit.ly/JayashRSY](https://bit.ly/JayashRSY)
-* Twitter: [@JayashRSY](https://twitter.com/JayashRSY)
-* Github: [@JayashRSY](https://github.com/JayashRSY)
-* LinkedIn: [@JayashRSY](https://linkedin.com/in/JayashRSY)
+- Website: [bit.ly/JayashRSY](https://bit.ly/JayashRSY)
+- Twitter: [@JayashRSY](https://twitter.com/JayashRSY)
+- Github: [@JayashRSY](https://github.com/JayashRSY)
+- LinkedIn: [@JayashRSY](https://linkedin.com/in/JayashRSY)
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
 
-***
+---
 
 ## About Unit test cases
 
