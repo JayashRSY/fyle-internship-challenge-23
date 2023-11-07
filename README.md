@@ -13,6 +13,8 @@
 
 ### ✨ [Demo](https://githubuserfinder.vercel.app/)
 
+### ✨ [Documentation](https://jayashrsy.github.io/fyle-internship-challenge-23/documentation/overview.html)
+
 ## Install
 
 ```sh
